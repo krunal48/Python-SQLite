@@ -1,7 +1,7 @@
 ﻿# ITC-Data-Science
 # ITC-Data-Science
 
-Assigment:
+Project:
 
 Design and implement a Complete University Management System in Python using SQLite and functions (def) with the following requirements:
 1. Database (SQLite)
@@ -24,3 +24,4 @@ def student_report(student_id) → Show subject-wise marks, total, average, grad
 def toppers() → Show topper in each subject + overall topper
 def department_summary() → Show average marks department-wise (JOIN + GROUP BY)
 def unique_subjects() → Return unique subjects as a set
+
